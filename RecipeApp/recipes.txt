@@ -1,0 +1,3 @@
+Spaghetti Bolognese|Dinner|spaghetti,ground beef,tomato,onion,garlic
+Vegetarian Salad|Lunch|lettuce,tomato,cucumber,avocado
+Pancakes|Breakfast|flour,milk,eggs,sugar
